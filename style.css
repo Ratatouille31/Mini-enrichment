@@ -1,0 +1,20 @@
+.Header {text-align: center;}
+.subtitle {text-align: center;}
+.mountain {margin-left: 720px;}
+.mountain {margin-top: 425pxs;}
+.cloud1 {margin-left: 100px;}
+.cloud2 {margin-left: 1700px;}
+.cloud2 {margin-bottom: 850px;}
+.cloud1 {margin-bottom: 300px;}
+.Header{color: aquamarine;}
+.subtitle {color: aqua;}
+.Header {font-size: 130px; border: solid 10px; color:black }
+.subtitle {font-size: 80px;}
+.cloud2 {position:absolute}
+.cloud1 {position:absolute}
+.mountain {position:absolute}
+.Header {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+.subtitle {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+.table {margin-top: 550px; font-size: 50px}
+Body {background-color:rgb(193, 236, 241)}
+.tableheader {margin-top: 500px; font-size: 45px;}
